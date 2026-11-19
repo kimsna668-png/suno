@@ -1,3 +1,4 @@
+"""
 Suno Music Downloader Telegram Bot (Public, Unlisted & Private Support)
 A self-contained, asynchronous Telegram bot built with `python-telegram-bot` (v20+),
 `httpx`, `beautifulsoup4`, and `python-dotenv`.
